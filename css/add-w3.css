@@ -1,0 +1,69 @@
+.nav-bar-item {
+    /*padding: 24px 8px 24px 8px;*/
+    margin-top: 22px;
+    background-color:inherit;
+    color:inherit;
+    text-align:center
+}
+
+body,h1,h2,h3,h4,h5,h6 {
+    font-family: "Raleway", sans-serif
+}
+
+body, html {
+    height: 100%;
+    line-height: 1.2;
+}
+
+.bgimg {
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    min-height: 100%;
+    background-image: url("../img/bg-naked-woman-unicorn.jpg");
+}
+
+.go-uppercase {
+    text-transform: uppercase;
+}
+
+.stress-color {
+    color: #A02171;
+}
+.stress-color-bg {
+    background-color: #A02171;
+}
+
+.go-bold {
+    font-weight: bold;
+}
+
+.line-in-header {
+    margin-left: 15%;
+    margin-right: 15%;
+}
+
+.bg-benefits-section {
+    background-image: url("../img/bg-bubbles-light-grey.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+ }
+
+.bg-platform-features {
+    background-image: url("../img/bg-light-grey-curves.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+.bg-final-block {
+    background-image: url("../img/bg-gray-dots.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+.top-nav {
+    padding: 8px 8px !important;
+}
