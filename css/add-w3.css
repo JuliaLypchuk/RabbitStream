@@ -44,6 +44,7 @@ body, html {
 }
 
 .bg-benefits-section {
+    height: 100% !important;
     background-image: url("../img/bg-bubbles-light-grey.jpg");
     background-repeat: no-repeat;
     background-position: center;
@@ -51,6 +52,8 @@ body, html {
  }
 
 .bg-platform-features {
+
+    height: 100% !important;
     background-image: url("../img/bg-light-grey-curves.jpg");
     background-repeat: no-repeat;
     background-position: center;
@@ -66,4 +69,18 @@ body, html {
 
 .top-nav {
     padding: 8px 8px !important;
+}
+.margin-top-48 {
+    margin-top: 48px !important;
+}
+
+.flex-container {
+    display: flex;
+    height: 100%;
+    flex-direction: column;
+    justify-content: space-around;
+}
+
+.flex-item {
+    margin: auto !important;
 }
