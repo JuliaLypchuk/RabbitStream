@@ -49,11 +49,24 @@ body, html {
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
- }
+}
 
 .bg-platform-features {
-
     height: 100% !important;
+    background-image: url("../img/bg-light-grey-curves.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+.bg-benefits-small {
+     background-image: url("../img/bg-bubbles-light-grey.jpg");
+     background-repeat: no-repeat;
+     background-position: center;
+     background-size: cover;
+ }
+
+.bg-platform-features-small {
+
     background-image: url("../img/bg-light-grey-curves.jpg");
     background-repeat: no-repeat;
     background-position: center;
